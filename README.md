@@ -1,7 +1,7 @@
 
 # SMS/Email Spam Detection System using NLP
 
-📋 Description
+##📋 Description
 
 This project is an SMS/Email Spam Detection System that uses Natural Language Processing (NLP) techniques to classify SMS messages as spam or ham (not spam). By analyzing the text data, the system detects patterns commonly associated with spam messages and provides a fast, reliable classification.
 
